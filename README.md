@@ -22,7 +22,7 @@ API Rest com Spring-boot e Spring-security.
 ## 📄 Documentação
 
 Diagrama do Banco de Dados
-<img src="https://trello.com/1/cards/667601806ea8217706a35dcc/attachments/667601816ea8217706a36196/previews/667601816ea8217706a3619d/download/diagrama_banco_de_dados_forumhub.png" alt="Banco de dados" >
+<img src=".\img.png" alt="Banco de dados" >
 
 
 ## 🛠 Tecnologias
